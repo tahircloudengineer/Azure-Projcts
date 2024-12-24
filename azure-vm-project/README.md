@@ -50,3 +50,10 @@ Run the following commands to track and commit the file:
 git commit -m "Added README for Azure VM Project"
 
 #Azure VM Project
+## Screenshots
+
+### Screenshot 1: VM Deployment Overview
+![VM Deployment Overview](screenshots/Screenshot1.png)
+
+### Screenshot 2: VM Configuration
+![VM Configuration](screenshots/Screenshot2.png)
